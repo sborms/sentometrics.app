@@ -15,7 +15,7 @@ To install the package, do one of:
 
 ```R
 # install.packages("sentometrics.app") # from CRAN (not yet, but might one day)
-devtools::install_github("DataWanderers/sentometrics.app") # development version (may be buggy...)
+devtools::install_github("sborms/sentometrics.app") # development version
 ```
 
 ### Usage
